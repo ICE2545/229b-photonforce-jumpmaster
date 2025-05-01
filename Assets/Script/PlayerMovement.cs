@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
+using UnityEngine.UI;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -11,10 +13,13 @@ public class PlayerMovement : MonoBehaviour
     
     [SerializeField] float jumpForce;
     [SerializeField] bool isJumping;
-    
+
+    public Text scoreText = null;
+    private int _score = 0;
+
     void Start()
     {
-        rb2d = GetComponent<Rigidbody2D>();
+        rb2d = GetComponent<Rigidbody2D>();        
     }
 
     
@@ -39,6 +44,14 @@ public class PlayerMovement : MonoBehaviour
         {
             isJumping = false;
         }
+
+        if (other.gameObject.CompareTag("Coin"))
+        {
+            _score += 1;
+            UpdateScoreText();
+
+            Destroy(other.gameObject); 
+        }
     }
 
     private void OnCollisionExit2D(Collision2D other)
@@ -46,6 +59,17 @@ public class PlayerMovement : MonoBehaviour
         if (other.gameObject.CompareTag("Untagged"))
         {
             isJumping = true;
+        }
+
+    }
+
+    public void UpdateScoreText()
+    {
+        _score++;
+        scoreText.text = $"SCORE: {_score}";
+        if (_score >= 36)
+        {
+            scoreText.text = $"You win!!";
         }
     }
 }
