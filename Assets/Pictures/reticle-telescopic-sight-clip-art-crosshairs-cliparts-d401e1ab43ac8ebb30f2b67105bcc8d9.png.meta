@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      reticle-telescopic-sight-clip-art-crosshairs-cliparts-d401e1ab43ac8ebb30f2b67105bcc8d9_0: -492717295665624769
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
