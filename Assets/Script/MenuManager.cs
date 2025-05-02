@@ -10,6 +10,11 @@ public class MenuManager : MonoBehaviour
     
     public void LoadMainMenu()
     {
+        SceneManager.LoadScene("MainMenu");
+    }
+    
+    public void StartGame()
+    {
         SceneManager.LoadScene("SampleScene");
     }
 }
