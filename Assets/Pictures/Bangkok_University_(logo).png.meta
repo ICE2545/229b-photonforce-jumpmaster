@@ -1,0 +1,1018 @@
+fileFormatVersion: 2
+guid: 73e6310cd84c41949a97e24a09902671
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7090639856493080600
+    second: Bangkok_University_(logo)_0
+  - first:
+      213: 2061294917687186002
+    second: Bangkok_University_(logo)_1
+  - first:
+      213: 641147904336763691
+    second: Bangkok_University_(logo)_2
+  - first:
+      213: 6576546837273740727
+    second: Bangkok_University_(logo)_3
+  - first:
+      213: -3145180945896263706
+    second: Bangkok_University_(logo)_4
+  - first:
+      213: 680272750180107648
+    second: Bangkok_University_(logo)_5
+  - first:
+      213: 1353168892557150296
+    second: Bangkok_University_(logo)_6
+  - first:
+      213: 2578184943551984230
+    second: Bangkok_University_(logo)_7
+  - first:
+      213: 2134318864048124395
+    second: Bangkok_University_(logo)_8
+  - first:
+      213: -1403937128902988825
+    second: Bangkok_University_(logo)_9
+  - first:
+      213: -8880711535264055357
+    second: Bangkok_University_(logo)_10
+  - first:
+      213: 7112337569624072150
+    second: Bangkok_University_(logo)_11
+  - first:
+      213: -37850575051585857
+    second: Bangkok_University_(logo)_12
+  - first:
+      213: 6977678024970318919
+    second: Bangkok_University_(logo)_13
+  - first:
+      213: 667402040384894805
+    second: Bangkok_University_(logo)_14
+  - first:
+      213: 6892798277464072489
+    second: Bangkok_University_(logo)_15
+  - first:
+      213: 1942072321701006072
+    second: Bangkok_University_(logo)_16
+  - first:
+      213: -3493893071078685693
+    second: Bangkok_University_(logo)_17
+  - first:
+      213: 8455377370916837377
+    second: Bangkok_University_(logo)_18
+  - first:
+      213: 263950587090505622
+    second: Bangkok_University_(logo)_19
+  - first:
+      213: -6237000736803089724
+    second: Bangkok_University_(logo)_20
+  - first:
+      213: -4694539623742396315
+    second: Bangkok_University_(logo)_21
+  - first:
+      213: -1068264405712348350
+    second: Bangkok_University_(logo)_22
+  - first:
+      213: 1702071257271769424
+    second: Bangkok_University_(logo)_23
+  - first:
+      213: -4919298751360971109
+    second: Bangkok_University_(logo)_24
+  - first:
+      213: -1110756017631191890
+    second: Bangkok_University_(logo)_25
+  - first:
+      213: 7963064660766661355
+    second: Bangkok_University_(logo)_26
+  - first:
+      213: -5912066696801703925
+    second: Bangkok_University_(logo)_27
+  - first:
+      213: 1729547604436564858
+    second: Bangkok_University_(logo)_28
+  - first:
+      213: 3232276173109460529
+    second: Bangkok_University_(logo)_29
+  - first:
+      213: 6906567836410472442
+    second: Bangkok_University_(logo)_30
+  - first:
+      213: 7525074156911052319
+    second: Bangkok_University_(logo)_31
+  - first:
+      213: 2885656677222898839
+    second: Bangkok_University_(logo)_32
+  - first:
+      213: -7790218679566753587
+    second: Bangkok_University_(logo)_33
+  - first:
+      213: 3097749463961426330
+    second: Bangkok_University_(logo)_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 195
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8103f74b163076260800000000000000
+      internalID: 7090639856493080600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 88
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25210127ec03b9c10800000000000000
+      internalID: 2061294917687186002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 88
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b9a7e3f90d5e800800000000000000
+      internalID: 641147904336763691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 88
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b58b642186944b50800000000000000
+      internalID: 6576546837273740727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 87
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efa685f7921a54d0800000000000000
+      internalID: -3145180945896263706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 88
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0850dd84670d07900800000000000000
+      internalID: 680272750180107648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 87
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8584af930fb67c210800000000000000
+      internalID: 1353168892557150296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 88
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6623daddb8d87c320800000000000000
+      internalID: 2578184943551984230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 39
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1f001e2bf9e9d10800000000000000
+      internalID: 2134318864048124395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 39
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb61c0ae96348ce0800000000000000
+      internalID: -1403937128902988825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 39
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf3fd329ef51c480800000000000000
+      internalID: -8880711535264055357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_11
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 39
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df9b18365914b260800000000000000
+      internalID: 7112337569624072150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 39
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6818f3a17897ff0800000000000000
+      internalID: -37850575051585857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 39
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744b763c131b5d060800000000000000
+      internalID: 6977678024970318919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 39
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5573383ae96134900800000000000000
+      internalID: 667402040384894805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 39
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921aba4838328af50800000000000000
+      internalID: 6892798277464072489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_16
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 39
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa4b1fac70a3fa10800000000000000
+      internalID: 1942072321701006072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_17
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 39
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304082763c2338fc0800000000000000
+      internalID: -3493893071078685693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_18
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108df5b9be8875570800000000000000
+      internalID: 8455377370916837377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 6
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f09c519adb9a300800000000000000
+      internalID: 263950587090505622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 6
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2900bffd8b179a0800000000000000
+      internalID: -6237000736803089724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 6
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568a6deb515a9deb0800000000000000
+      internalID: -4694539623742396315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 6
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b5253de23cc21f0800000000000000
+      internalID: -1068264405712348350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 6
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05916106ac8fe9710800000000000000
+      internalID: 1702071257271769424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 6
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e4b1569d32bbbb0800000000000000
+      internalID: -4919298751360971109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_25
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 6
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac17f8794dc590f0800000000000000
+      internalID: -1110756017631191890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_26
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 6
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea967c6e1d728e60800000000000000
+      internalID: 7963064660766661355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_27
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 6
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08a7b8a9ae14fda0800000000000000
+      internalID: -5912066696801703925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_28
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 6
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bb198f166900810800000000000000
+      internalID: 1729547604436564858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_29
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 6
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ef52add0a5bdc20800000000000000
+      internalID: 3232276173109460529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_30
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 6
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7626acade09df50800000000000000
+      internalID: 6906567836410472442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_31
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 6
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16c72f731f6e6860800000000000000
+      internalID: 7525074156911052319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_32
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 6
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cda958579eb0820800000000000000
+      internalID: 2885656677222898839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_33
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 6
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0afc1a26593e390800000000000000
+      internalID: -7790218679566753587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bangkok_University_(logo)_34
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 6
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99d39299ba6dfa20800000000000000
+      internalID: 3097749463961426330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
